@@ -1,12 +1,11 @@
-# Isaac Wyatt
-- [Website](https://www.isaacwyatt.com)
-- [Hachyderm.io (Mastodon)](https://hachyderm.io/@iw)
+# About
+Built Growth Systems @ Google, HashiCorp, New Relic etc. | Strat & Ops + Code 🦀
 
 ## Currently working on:
 - `gq-cli`, a command line interface for [GQueues](https://gqz.page.link/Rvzp98m6wrY9E27J9) task manager.
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
 
-## Other Projects
+## Previous Projects
 | Language | Projects |
 | --- |  --- | 
 | Rust |- [TaskWarrior MSRV CI Automation](https://www.isaacwyatt.com/posts/2023-11-21/) <br>- [Roguelike Dungeon Crawler Game](https://www.isaacwyatt.com/posts/2024-01-25/)<br>- [Basic terminal computer game](https://github.com/iwyatt/dcg)
