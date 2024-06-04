@@ -1,7 +1,7 @@
 # About
 Built Growth Systems @ Google, HashiCorp, New Relic etc. | Strat & Ops + Code 🦀
 
-## Currently working on:
+## Current Projects
 - `gq-cli`, a command line interface for [GQueues](https://gqz.page.link/Rvzp98m6wrY9E27J9) task manager.
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
 
