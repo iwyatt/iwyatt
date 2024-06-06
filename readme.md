@@ -1,7 +1,7 @@
 # About
 Built Growth Systems @ Google, HashiCorp, New Relic etc. | Strat & Ops + Code 🦀
 
-## Upcomming
+## Upcoming
 September 09, 2024 - September 14, 2024: 🦀RustConf in Montreal, Canada
 
 ## Current Projects
