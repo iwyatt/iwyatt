@@ -1,6 +1,9 @@
 # About
 Built Growth Systems @ Google, HashiCorp, New Relic etc. | Strat & Ops + Code 🦀
 
+## Upcomming
+September 09, 2024 - September 14, 2024: 🦀RustConf in Montreal, Canada
+
 ## Current Projects
 - `gq-cli`, a command line interface for [GQueues](https://gqz.page.link/Rvzp98m6wrY9E27J9) task manager.
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
