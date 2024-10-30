@@ -15,4 +15,3 @@ Built Growth Systems @ Google, HashiCorp, New Relic etc. | Strat & Ops + Code ðŸ
 | SQL |- Built Customer Scoring Model <br>- Data Integrity Analysis <br>- Salesforce.com ETL & Data Replication <br>- Sales and Marketing Funnel Data Analysis |
 | React |- ["AugustRush"](https://github.com/iwyatt/augustrush)" Wedding Website |
 | Lua |- ["AlphaZero"](https://github.com/iwyatt/AlphaZero) Custom User Interface for World of Warcraft | 
-| Qbasic |- Choose your own adventure games <br>- Screen Savers <br>- Arena fighting game |
