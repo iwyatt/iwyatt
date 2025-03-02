@@ -5,7 +5,7 @@ Built Growth Systems @ Google, HashiCorp, New Relic etc. | Strat & Ops + Code ðŸ
 RustConf Sept 2-5, 2025 Seattle, Washington
 
 ## Current Projects
-- `spits`, use AI / LLM (Google Gemini) in Google Sheets as a formula [link](https://github.com/iwyatt/spits)
+- `spits`, use AI / LLM (Google Gemini) in Google Sheets as a formula ([link](https://github.com/iwyatt/spits))
 - `gq-cli`, a command line interface for [GQueues](https://gqz.page.link/Rvzp98m6wrY9E27J9) task manager.
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
 
