@@ -6,7 +6,7 @@ RustConf Sept 2-5, 2025 Seattle, Washington
 
 ## Current Projects
 - [`guilde.ai`](https://guilde.ai) website - built with [Astro](https://astro.build/), styled with [Tailwind CSS](https://tailwindcss.com/), with i18n support, hosted on Vercel
-- [`MegaMan 2: Puzzle Attack - 🦀 Carcinized`](https://iwyatt.github.io/mm2pa-c/index.html), a Tetris / MegaMan 2 mashup fan game ported to Rust from the Python version by Mark Pulver
+- [`MegaMan 2: Puzzle Attack - 🦀 Carcinized`](https://iwyatt.github.io/mm2pa-c/index.html), a Tetris / MegaMan 2 mashup fan game ported to Rust from the Python version by [Mark Pulver]([url](https://github.com/markpulver/mega-man-2-puzzle-attack))
 - [`spits`](https://github.com/iwyatt/spits), use AI / LLM (Google Gemini) in Google Sheets as a formula
 - `gq-cli`, a command line interface for [GQueues](https://gqz.page.link/Rvzp98m6wrY9E27J9) task manager.
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
