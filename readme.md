@@ -1,13 +1,10 @@
 # About
 Strat & Ops + Code 🦀 | Built Growth Systems @ Google, HashiCorp, New Relic, etc.
 
-## Upcoming
-RustConf Sept 2-5, 2025 Seattle, Washington
-
 ## Current Projects
 ### Client Work:
   - B2B Enterprise Software startup website - built with [Astro](https://astro.build/), styled with [Tailwind CSS](https://tailwindcss.com/), with i18n support, hosted on Vercel
-  - Serverless functions in Rust for processing website forms and integrating with Attio CMS, Ipinfo.io and Google BigQuery integration
+  - Serverless functions in Rust for processing website forms and integrating with Attio CMS
 
 ### Personal:
 - [`MegaMan 2: Puzzle Attack - 🦀 Carcinized`](https://iwyatt.github.io/mm2pa-c/index.html), a Tetris / MegaMan 2 mashup fan game ported to Rust from the Python version by [Mark Pulver]([url](https://github.com/markpulver/mega-man-2-puzzle-attack))
