@@ -1,5 +1,5 @@
 # About
-Strat & Ops + Code 🦀 | Built Growth Systems @ Google, HashiCorp, New Relic, etc.
+Built growth systems at pre-IPO B2B software companies like New Relic, HashiCorp, etc. before joining Google. I accelerated revenue growth by enabling Marketing and Sales teams with automation, analytics, process, and tools.
 
 ## Current Projects
 ### Client Work:
