@@ -3,14 +3,15 @@ Built growth systems at pre-IPO B2B software companies like New Relic, HashiCorp
 
 ## Current Projects
 ### [Syntax & Scale, LLC](https://syntaxandscale.com)
-  - Building Custom GPT generator for 2D binary data
-  - Building API client library for the Gqueues web service
-  - Building Client TUI and CLI for Gqueues web service
-  - Building UI for Beancount plain text accounting
+  - Custom GPT generator for 2D binary data
+  - API client library for the Gqueues web service
+  - Client TUI and CLI for Gqueues web service
+  - UI for Beancount plain text accounting
   
 ### Personal:
 - [`spits`](https://github.com/iwyatt/spits), use AI / LLM (Google Gemini) in Google Sheets as a formula
 - [`MegaMan 2: Puzzle Attack - 🦀 Carcinized`](https://www.isaacwyatt.com/posts/2025-12-31/), a Tetris / MegaMan 2 mashup fan game ported to Rust from the Python version by [Mark Pulver]([url](https://github.com/markpulver/mega-man-2-puzzle-attack))
+- [`qwx`](https://github.com/iwyatt/qwx), An experiment in vibe-coding a simple Weather app for the CLI that also fetches aviation weather.
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
 
 ## Previous Projects
