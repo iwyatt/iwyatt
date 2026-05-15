@@ -10,13 +10,13 @@ Built growth systems at pre-IPO B2B software companies like New Relic, HashiCorp
   
 ### Personal:
 - [`spits`](https://github.com/iwyatt/spits), use AI / LLM (Google Gemini) in Google Sheets as a formula
-- [`MegaMan 2: Puzzle Attack - 🦀 Carcinized`](https://iwyatt.github.io/mm2pa-c/index.html), a Tetris / MegaMan 2 mashup fan game ported to Rust from the Python version by [Mark Pulver]([url](https://github.com/markpulver/mega-man-2-puzzle-attack))
+- [`MegaMan 2: Puzzle Attack - 🦀 Carcinized`](https://www.isaacwyatt.com/posts/2025-12-31/), a Tetris / MegaMan 2 mashup fan game ported to Rust from the Python version by [Mark Pulver]([url](https://github.com/markpulver/mega-man-2-puzzle-attack))
 - `til` (today I learned), my personal [website](https://www.isaacwyatt.com/) structured as a [Digital Garden](https://www.isaacwyatt.com/digital-garden/)
 
 ## Previous Projects
 | Language | Projects |
 | --- |  --- | 
-| Rust |- [TaskWarrior MSRV CI Automation](https://www.isaacwyatt.com/posts/2023-11-21/) <br>- [Roguelike Dungeon Crawler Game](https://www.isaacwyatt.com/posts/2024-01-25/)<br>- [MegaMan 2: Puzzle Attack - 🦀 Carcinized](https://iwyatt.github.io/mm2pa-c/index.html)
+| Rust |- [TaskWarrior MSRV CI Automation](https://www.isaacwyatt.com/posts/2023-11-21/) <br>- [Roguelike Dungeon Crawler Game](https://www.isaacwyatt.com/posts/2024-01-25/) <br>- Backend Website Functions for Astro website deployed on Vercel
 | Python |- [Personal Productivity Data Analysis](https://www.isaacwyatt.com/posts/2023-06-02) <br>- Library Sciences Authorship Analysis (NDA)|
 | R |- Customer Account Scoring using Neural Nets, Random Forests, Decision Trees, Linear Regressions <br>- Social Network Analysis <br>- [Myers Briggs Type Indicator Classification](https://www.isaacwyatt.com/posts/2023-11-06/) <br>- Competitive Fitbit Clustering <br>- Shopping Basket Analysis | 
 | SQL |- Built Marketing Attribution Model <br>- Customer Scoring Model <br>- Data Integrity Analysis <br>- Salesforce.com ETL & Data Replication <br>- Sales and Marketing Funnel Data Analysis |
